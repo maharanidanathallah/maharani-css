@@ -1,0 +1,109 @@
+/* Latar Belakang Warna Bahasa Jepang - Background Color Japanese */
+.bg-jp-aka, .bg-jp-reddo, .bg-jp-akairo, .bg-jp-akai, .bg-jp-ni, .bg-jp-niiro, .bg-jp-akairo {background-color: Red;}
+.bg-jp-aoi, .bg-jp-ao, .bg-jp-buru {background-color: Blue;}
+.bg-jp-ki, .bg-jp-kiiro, .bg-jp-kiiroi {background-color: Yellow;}
+.bg-jp-midori, .bg-jp-gurin, .bg-jp-midoriiro {background-color: Green;}
+.bg-jp-orenji, .bg-jp-daidai {background-color: Orange;}
+.bg-jp-kuro, .bg-jp-burakku, .bg-jp-kuroi {background-color: Black;}
+.bg-jp-shiro, .bg-jp-shiroi, .bg-jp-howaito {background-color: White;}
+.bg-jp-gure, .bg-jp-haiiro, .bg-jp-kaihaku, .bg-jp-nezumiiro {background-color: Gray;}
+.bg-jp-murasakino, .bg-jp-papuru {background-color: Purple;}
+.bg-jp-pinku, .bg-jp-tankoshoku {background-color: Pink;}
+.bg-jp-takoizu, .bg-jp-torukoseki {background-color: Turquoise;}
+.bg-jp-sumire, .bg-jp-baioretto, .bg-jp-murasakiiro {background-color: Violet;}
+.bg-jp-tan {background-color: Tan;}
+.bg-jp-tiru {background-color: Teal;}
+.bg-jp-gin, .bg-jp-shiruba {background-color: Silver;}
+.bg-jp-gorudo, .bg-jp-kogane {background-color: Gold;}
+.bg-jp-injigo, .bg-jp-ai {background-color: Indigo;}
+.bg-jp-rabenda {background-color: Lavender;}
+.bg-jp-shian {background-color: Cyan;}
+.bg-jp-kasshoku, .bg-jp-kasshoku-no {background-color: Brown;}
+.bg-jp-akua {background-color: Aqua;}
+.bg-jp-raimu, .bg-jp-sekkai {background-color: Lime;}
+.bg-jp-mazenta {background-color: Magenta;}
+.bg-jp-kaki {background-color: Khaki;}
+.bg-jp-orību {background-color: Olive;}
+.bg-jp-shigurin {background-color: SeaGreen;}
+.bg-jp-sorairo {background-color: SkyBlue;}
+.bg-jp-suretoburu {background-color: SlateBlue;}
+.bg-jp-suretogure {background-color: SlateGray;}
+.bg-jp-suchiruburu {background-color: SteelBlue;}
+.bg-jp-nokon, .bg-jp-koiaoiro {background-color: DarkBlue;}
+.bg-jp-dakushian {background-color: DarkCyan;}
+.bg-jp-ankaishoku {background-color: DarkGray;}
+.bg-jp-koi-midoriiro, .bg-jp-ko-midoriiro {background-color: DarkGreen;}
+.bg-jp-dakukaki {background-color: DarkKhaki;}
+.bg-jp-dakumazenta {background-color: DarkMagenta;}
+.bg-jp-koi-orenji-iro {background-color: DarkOrange;}
+.bg-jp-ansekishoku {background-color: DarkRed;}
+.bg-jp-dakushigurin {background-color: DarkSeaGreen;}
+.bg-jp-dakusuretoburu {background-color: DarkSlateBlue;}
+.bg-jp-dakusuretogure {background-color: DarkSlateGray;}
+.bg-jp-dakutakoizu {background-color: DarkTurquoise;}
+.bg-jp-anshishoku {background-color: DarkViolet;}
+.bg-jp-raitoburu, .bg-jp-mizuiro {background-color: LightBlue;}
+.bg-jp-raitoshian {background-color: LightCyan;}
+.bg-jp-raitogure {background-color: LightGray;}
+.bg-jp-raitogurin, .bg-jp-asamidori, .bg-jp-moegi-iro {background-color: LightGreen;}
+.bg-jp-kobai-iro, .bg-jp-taiko {background-color: LightPink;}
+.bg-jp-raitoshigurin {background-color: LightSeaGreen;}
+.bg-jp-raitosukaiburu {background-color: LightSkyBlue;}
+.bg-jp-raitosuretogure {background-color: LightSlateGray;}
+.bg-jp-raitosuchiruburu {background-color: LightSteelBlue;}
+.bg-jp-raitoiero {background-color: LightYellow;}
+
+/* Latar Depan Bahasa Jepang - Foreground Color Japanese */
+.fg-jp-aka, .fg-jp-reddo, .fg-jp-akairo, .fg-jp-akai, .fg-jp-ni, .fg-jp-niiro, .fg-jp-akairo {color: Red;}
+.fg-jp-aoi, .fg-jp-ao, .fg-jp-buru {color: Blue;}
+.fg-jp-ki, .fg-jp-kiiro, .fg-jp-kiiroi {color: Yellow;}
+.fg-jp-midori, .fg-jp-gurin, .fg-jp-midoriiro {color: Green;}
+.fg-jp-orenji, .fg-jp-daidai {color: Orange;}
+.fg-jp-kuro, .fg-jp-burakku, .fg-jp-kuroi {color: Black;}
+.fg-jp-shiro, .fg-jp-shiroi, .fg-jp-howaito {color: White;}
+.fg-jp-gure, .fg-jp-haiiro, .fg-jp-kaihaku, .fg-jp-nezumiiro {color: Gray;}
+.fg-jp-murasakino, .fg-jp-papuru {color: Purple;}
+.fg-jp-pinku, .fg-jp-tankoshoku {color: Pink;}
+.fg-jp-takoizu, .fg-jp-torukoseki {color: Turquoise;}
+.fg-jp-sumire, .fg-jp-baioretto, .fg-jp-murasakiiro {color: Violet;}
+.fg-jp-tan {color: Tan;}
+.fg-jp-tiru {color: Teal;}
+.fg-jp-gin, .fg-jp-shiruba {color: Silver;}
+.fg-jp-gorudo, .fg-jp-kogane {color: Gold;}
+.fg-jp-injigo, .fg-jp-ai {color: Indigo;}
+.fg-jp-rabenda {color: Lavender;}
+.fg-jp-shian {color: Cyan;}
+.fg-jp-kasshoku, .fg-jp-kasshoku-no {color: Brown;}
+.fg-jp-akua {color: Aqua;}
+.fg-jp-raimu, .fg-jp-sekkai {color: Lime;}
+.fg-jp-mazenta {color: Magenta;}
+.fg-jp-kaki {color: Khaki;}
+.fg-jp-orību {color: Olive;}
+.fg-jp-shigurin {color: SeaGreen;}
+.fg-jp-sorairo {color: SkyBlue;}
+.fg-jp-suretoburu {color: SlateBlue;}
+.fg-jp-suretogure {color: SlateGray;}
+.fg-jp-suchiruburu {color: SteelBlue;}
+.fg-jp-nokon, .fg-jp-koiaoiro {color: DarkBlue;}
+.fg-jp-dakushian {color: DarkCyan;}
+.fg-jp-ankaishoku {color: DarkGray;}
+.fg-jp-koi-midoriiro, .fg-jp-ko-midoriiro {color: DarkGreen;}
+.fg-jp-dakukaki {color: DarkKhaki;}
+.fg-jp-dakumazenta {color: DarkMagenta;}
+.fg-jp-koi-orenji-iro {color: DarkOrange;}
+.fg-jp-ansekishoku {color: DarkRed;}
+.fg-jp-dakushigurin {color: DarkSeaGreen;}
+.fg-jp-dakusuretoburu {color: DarkSlateBlue;}
+.fg-jp-dakusuretogure {color: DarkSlateGray;}
+.fg-jp-dakutakoizu {color: DarkTurquoise;}
+.fg-jp-anshishoku {color: DarkViolet;}
+.fg-jp-raitoburu, .fg-jp-mizuiro {color: LightBlue;}
+.fg-jp-raitoshian {color: LightCyan;}
+.fg-jp-raitogure {color: LightGray;}
+.fg-jp-raitogurin, .fg-jp-asamidori, .fg-jp-moegi-iro {color: LightGreen;}
+.fg-jp-kobai-iro, .fg-jp-taiko {color: LightPink;}
+.fg-jp-raitoshigurin {color: LightSeaGreen;}
+.fg-jp-raitosukaiburu {color: LightSkyBlue;}
+.fg-jp-raitosuretogure {color: LightSlateGray;}
+.fg-jp-raitosuchiruburu {color: LightSteelBlue;}
+.fg-jp-raitoiero {color: LightYellow;}
